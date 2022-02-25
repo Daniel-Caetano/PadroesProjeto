@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InvestimentoStrategy/1.0.0": {
+        "runtime": {
+          "InvestimentoStrategy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvestimentoStrategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
